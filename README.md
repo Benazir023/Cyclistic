@@ -1,4 +1,4 @@
-#####**Google Data Analytics Capstone Project**
+**Google Data Analytics Capstone Project**
 
 *Cyclistic bike_share case study
 
