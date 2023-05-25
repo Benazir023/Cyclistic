@@ -1,14 +1,4 @@
-# Setting up work environment
-
-WorkingDirectory <- setwd("D:/BENA/Data Analytics/R projects/Bikeshare")
-
-# Save workspace
-
-save.image("cyclistic_analysis.RData")
-
-# Save history
-
-savehistory("cyclistic_analysis.Rhistory")
+# Set up work environment
 
 # Install packages and load using library functions
 
